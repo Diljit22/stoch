@@ -72,6 +72,7 @@ plt.ylabel("Asset Price")
 plt.grid(True)
 plt.show()
 ```
+>>> ![Figure 1](Figure_1.png)
 
 ### 2. Symbolic Ito's Lemma & Stratonovich Conversion
 
